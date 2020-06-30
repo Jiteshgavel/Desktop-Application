@@ -1,0 +1,112 @@
+﻿<?xml version="1.0"?>
+<doc>
+<assembly>
+<name>
+BloodBank
+</name>
+</assembly>
+<members>
+<member name="T:BloodBank.BloodBankDbDataSet.DonarDataTable">
+	<summary>
+Represents the strongly named DataTable class.
+</summary>
+</member><member name="T:BloodBank.BloodBankDbDataSet.LoginDataTable">
+	<summary>
+Represents the strongly named DataTable class.
+</summary>
+</member><member name="T:BloodBank.BloodBankDbDataSet.ReciverDataTable">
+	<summary>
+Represents the strongly named DataTable class.
+</summary>
+</member><member name="T:BloodBank.BloodBankDbDataSet.DonarRow">
+	<summary>
+Represents strongly named DataRow class.
+</summary>
+</member><member name="T:BloodBank.BloodBankDbDataSet.LoginRow">
+	<summary>
+Represents strongly named DataRow class.
+</summary>
+</member><member name="T:BloodBank.BloodBankDbDataSet.ReciverRow">
+	<summary>
+Represents strongly named DataRow class.
+</summary>
+</member><member name="T:BloodBank.BloodBankDbDataSet.DonarRowChangeEvent">
+	<summary>
+Row event argument class
+</summary>
+</member><member name="T:BloodBank.BloodBankDbDataSet.LoginRowChangeEvent">
+	<summary>
+Row event argument class
+</summary>
+</member><member name="T:BloodBank.BloodBankDbDataSet.ReciverRowChangeEvent">
+	<summary>
+Row event argument class
+</summary>
+</member><member name="T:BloodBank.BloodBankDbDataSet">
+	<summary>
+Represents a strongly typed in-memory cache of data.
+</summary>
+</member><member name="T:BloodBank.BloodBankDbDataSetTableAdapters.DonarTableAdapter">
+	<summary>
+Represents the connection and commands used to retrieve and save data.
+</summary>
+</member><member name="T:BloodBank.BloodBankDbDataSetTableAdapters.LoginTableAdapter">
+	<summary>
+Represents the connection and commands used to retrieve and save data.
+</summary>
+</member><member name="T:BloodBank.BloodBankDbDataSetTableAdapters.ReciverTableAdapter">
+	<summary>
+Represents the connection and commands used to retrieve and save data.
+</summary>
+</member><member name="M:BloodBank.BloodBankDbDataSetTableAdapters.TableAdapterManager.UpdateUpdatedRows(BloodBank.BloodBankDbDataSet,System.Collections.Generic.List{System.Data.DataRow},System.Collections.Generic.List{System.Data.DataRow})">
+	<summary>
+Update rows in top-down order.
+</summary>
+</member><member name="M:BloodBank.BloodBankDbDataSetTableAdapters.TableAdapterManager.UpdateInsertedRows(BloodBank.BloodBankDbDataSet,System.Collections.Generic.List{System.Data.DataRow})">
+	<summary>
+Insert rows in top-down order.
+</summary>
+</member><member name="M:BloodBank.BloodBankDbDataSetTableAdapters.TableAdapterManager.UpdateDeletedRows(BloodBank.BloodBankDbDataSet,System.Collections.Generic.List{System.Data.DataRow})">
+	<summary>
+Delete rows in bottom-up order.
+</summary>
+</member><member name="M:BloodBank.BloodBankDbDataSetTableAdapters.TableAdapterManager.GetRealUpdatedRows(System.Data.DataRow[],System.Collections.Generic.List{System.Data.DataRow})">
+	<summary>
+Remove inserted rows that become updated rows after calling TableAdapter.Update(inserted rows) first
+</summary>
+</member><member name="M:BloodBank.BloodBankDbDataSetTableAdapters.TableAdapterManager.UpdateAll(BloodBank.BloodBankDbDataSet)">
+	<summary>
+Update all changes to the dataset.
+</summary>
+</member><member name="T:BloodBank.BloodBankDbDataSetTableAdapters.TableAdapterManager.UpdateOrderOption">
+	<summary>
+Update Order Option
+</summary>
+</member><member name="T:BloodBank.BloodBankDbDataSetTableAdapters.TableAdapterManager.SelfReferenceComparer">
+	<summary>
+Used to sort self-referenced table's rows
+</summary>
+</member><member name="T:BloodBank.BloodBankDbDataSetTableAdapters.TableAdapterManager">
+	<summary>
+TableAdapterManager is used to coordinate TableAdapters in the dataset to enable Hierarchical Update scenarios
+</summary>
+</member><member name="P:BloodBank.My.Resources.Resources.ResourceManager">
+	<summary>
+  Returns the cached ResourceManager instance used by this class.
+</summary>
+</member><member name="P:BloodBank.My.Resources.Resources.Culture">
+	<summary>
+  Overrides the current thread's CurrentUICulture property for all
+  resource lookups using this strongly typed resource class.
+</summary>
+</member><member name="P:BloodBank.My.Resources.Resources.b3">
+	<summary>
+  Looks up a localized resource of type System.Drawing.Bitmap.
+</summary>
+</member><member name="T:BloodBank.My.Resources.Resources">
+	<summary>
+  A strongly-typed resource class, for looking up localized strings, etc.
+</summary>
+</member>
+</members>
+</doc>

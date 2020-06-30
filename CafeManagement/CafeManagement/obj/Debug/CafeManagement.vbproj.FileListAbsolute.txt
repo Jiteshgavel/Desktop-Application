@@ -1,0 +1,41 @@
+C:\Users\JITESH\AppData\Local\Temporary Projects\CafeManagement\bin\Debug\CafeManagement.exe.config
+C:\Users\JITESH\AppData\Local\Temporary Projects\CafeManagement\bin\Debug\CafeManagement.exe
+C:\Users\JITESH\AppData\Local\Temporary Projects\CafeManagement\bin\Debug\CafeManagement.pdb
+C:\Users\JITESH\AppData\Local\Temporary Projects\CafeManagement\bin\Debug\CafeManagement.xml
+C:\Users\JITESH\AppData\Local\Temporary Projects\CafeManagement\obj\Debug\CafeManagement.Login.resources
+C:\Users\JITESH\AppData\Local\Temporary Projects\CafeManagement\obj\Debug\CafeManagement.Resources.resources
+C:\Users\JITESH\AppData\Local\Temporary Projects\CafeManagement\obj\Debug\CafeManagement.Order.resources
+C:\Users\JITESH\AppData\Local\Temporary Projects\CafeManagement\obj\Debug\CafeManagement.Stock.resources
+C:\Users\JITESH\AppData\Local\Temporary Projects\CafeManagement\obj\Debug\CafeManagement.vbproj.GenerateResource.Cache
+C:\Users\JITESH\AppData\Local\Temporary Projects\CafeManagement\obj\Debug\CafeManagement.exe
+C:\Users\JITESH\AppData\Local\Temporary Projects\CafeManagement\obj\Debug\CafeManagement.xml
+C:\Users\JITESH\AppData\Local\Temporary Projects\CafeManagement\obj\Debug\CafeManagement.pdb
+C:\Users\JITESH\AppData\Local\Temporary Projects\CafeManagement\obj\Debug\CafeManagement.Home.resources
+C:\Users\JITESH\Documents\Visual Studio 2012\Projects\CafeManagement\CafeManagement\bin\Debug\CafeManagement.exe.config
+C:\Users\JITESH\Documents\Visual Studio 2012\Projects\CafeManagement\CafeManagement\obj\Debug\CafeManagement.exe
+C:\Users\JITESH\Documents\Visual Studio 2012\Projects\CafeManagement\CafeManagement\obj\Debug\CafeManagement.xml
+C:\Users\JITESH\Documents\Visual Studio 2012\Projects\CafeManagement\CafeManagement\obj\Debug\CafeManagement.pdb
+C:\Users\JITESH\Documents\Visual Studio 2012\Projects\CafeManagement\CafeManagement\bin\Debug\CafeManagement.exe
+C:\Users\JITESH\Documents\Visual Studio 2012\Projects\CafeManagement\CafeManagement\bin\Debug\CafeManagement.pdb
+C:\Users\JITESH\Documents\Visual Studio 2012\Projects\CafeManagement\CafeManagement\bin\Debug\CafeManagement.xml
+C:\Users\JITESH\Documents\Visual Studio 2012\Projects\CafeManagement\CafeManagement\obj\Debug\CafeManagement.Home.resources
+C:\Users\JITESH\Documents\Visual Studio 2012\Projects\CafeManagement\CafeManagement\obj\Debug\CafeManagement.Login.resources
+C:\Users\JITESH\Documents\Visual Studio 2012\Projects\CafeManagement\CafeManagement\obj\Debug\CafeManagement.Resources.resources
+C:\Users\JITESH\Documents\Visual Studio 2012\Projects\CafeManagement\CafeManagement\obj\Debug\CafeManagement.Order.resources
+C:\Users\JITESH\Documents\Visual Studio 2012\Projects\CafeManagement\CafeManagement\obj\Debug\CafeManagement.Stock.resources
+C:\Users\JITESH\Documents\Visual Studio 2012\Projects\CafeManagement\CafeManagement\obj\Debug\CafeManagement.vbproj.GenerateResource.Cache
+C:\Users\JITESH\Documents\Visual Studio 2012\Projects\CafeManagement\CafeManagement\obj\Debug\CafeManagement.AddUser.resources
+F:\DeskTop Application\CafeManagement\CafeManagement\bin\Debug\CafeManagement.exe.config
+F:\DeskTop Application\CafeManagement\CafeManagement\obj\Debug\CafeManagement.exe
+F:\DeskTop Application\CafeManagement\CafeManagement\obj\Debug\CafeManagement.xml
+F:\DeskTop Application\CafeManagement\CafeManagement\obj\Debug\CafeManagement.pdb
+F:\DeskTop Application\CafeManagement\CafeManagement\bin\Debug\CafeManagement.exe
+F:\DeskTop Application\CafeManagement\CafeManagement\bin\Debug\CafeManagement.pdb
+F:\DeskTop Application\CafeManagement\CafeManagement\bin\Debug\CafeManagement.xml
+F:\DeskTop Application\CafeManagement\CafeManagement\obj\Debug\CafeManagement.AddUser.resources
+F:\DeskTop Application\CafeManagement\CafeManagement\obj\Debug\CafeManagement.Home.resources
+F:\DeskTop Application\CafeManagement\CafeManagement\obj\Debug\CafeManagement.Login.resources
+F:\DeskTop Application\CafeManagement\CafeManagement\obj\Debug\CafeManagement.Resources.resources
+F:\DeskTop Application\CafeManagement\CafeManagement\obj\Debug\CafeManagement.Order.resources
+F:\DeskTop Application\CafeManagement\CafeManagement\obj\Debug\CafeManagement.Stock.resources
+F:\DeskTop Application\CafeManagement\CafeManagement\obj\Debug\CafeManagement.vbproj.GenerateResource.Cache

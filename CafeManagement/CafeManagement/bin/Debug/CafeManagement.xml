@@ -1,0 +1,112 @@
+﻿<?xml version="1.0"?>
+<doc>
+<assembly>
+<name>
+CafeManagement
+</name>
+</assembly>
+<members>
+<member name="T:CafeManagement.CafeInfoDbDataSet.LOGINDataTable">
+	<summary>
+Represents the strongly named DataTable class.
+</summary>
+</member><member name="T:CafeManagement.CafeInfoDbDataSet.ORDERT1DataTable">
+	<summary>
+Represents the strongly named DataTable class.
+</summary>
+</member><member name="T:CafeManagement.CafeInfoDbDataSet.STOCKDataTable">
+	<summary>
+Represents the strongly named DataTable class.
+</summary>
+</member><member name="T:CafeManagement.CafeInfoDbDataSet.LOGINRow">
+	<summary>
+Represents strongly named DataRow class.
+</summary>
+</member><member name="T:CafeManagement.CafeInfoDbDataSet.ORDERT1Row">
+	<summary>
+Represents strongly named DataRow class.
+</summary>
+</member><member name="T:CafeManagement.CafeInfoDbDataSet.STOCKRow">
+	<summary>
+Represents strongly named DataRow class.
+</summary>
+</member><member name="T:CafeManagement.CafeInfoDbDataSet.LOGINRowChangeEvent">
+	<summary>
+Row event argument class
+</summary>
+</member><member name="T:CafeManagement.CafeInfoDbDataSet.ORDERT1RowChangeEvent">
+	<summary>
+Row event argument class
+</summary>
+</member><member name="T:CafeManagement.CafeInfoDbDataSet.STOCKRowChangeEvent">
+	<summary>
+Row event argument class
+</summary>
+</member><member name="T:CafeManagement.CafeInfoDbDataSet">
+	<summary>
+Represents a strongly typed in-memory cache of data.
+</summary>
+</member><member name="T:CafeManagement.CafeInfoDbDataSetTableAdapters.LOGINTableAdapter">
+	<summary>
+Represents the connection and commands used to retrieve and save data.
+</summary>
+</member><member name="T:CafeManagement.CafeInfoDbDataSetTableAdapters.ORDERT1TableAdapter">
+	<summary>
+Represents the connection and commands used to retrieve and save data.
+</summary>
+</member><member name="T:CafeManagement.CafeInfoDbDataSetTableAdapters.STOCKTableAdapter">
+	<summary>
+Represents the connection and commands used to retrieve and save data.
+</summary>
+</member><member name="M:CafeManagement.CafeInfoDbDataSetTableAdapters.TableAdapterManager.UpdateUpdatedRows(CafeManagement.CafeInfoDbDataSet,System.Collections.Generic.List{System.Data.DataRow},System.Collections.Generic.List{System.Data.DataRow})">
+	<summary>
+Update rows in top-down order.
+</summary>
+</member><member name="M:CafeManagement.CafeInfoDbDataSetTableAdapters.TableAdapterManager.UpdateInsertedRows(CafeManagement.CafeInfoDbDataSet,System.Collections.Generic.List{System.Data.DataRow})">
+	<summary>
+Insert rows in top-down order.
+</summary>
+</member><member name="M:CafeManagement.CafeInfoDbDataSetTableAdapters.TableAdapterManager.UpdateDeletedRows(CafeManagement.CafeInfoDbDataSet,System.Collections.Generic.List{System.Data.DataRow})">
+	<summary>
+Delete rows in bottom-up order.
+</summary>
+</member><member name="M:CafeManagement.CafeInfoDbDataSetTableAdapters.TableAdapterManager.GetRealUpdatedRows(System.Data.DataRow[],System.Collections.Generic.List{System.Data.DataRow})">
+	<summary>
+Remove inserted rows that become updated rows after calling TableAdapter.Update(inserted rows) first
+</summary>
+</member><member name="M:CafeManagement.CafeInfoDbDataSetTableAdapters.TableAdapterManager.UpdateAll(CafeManagement.CafeInfoDbDataSet)">
+	<summary>
+Update all changes to the dataset.
+</summary>
+</member><member name="T:CafeManagement.CafeInfoDbDataSetTableAdapters.TableAdapterManager.UpdateOrderOption">
+	<summary>
+Update Order Option
+</summary>
+</member><member name="T:CafeManagement.CafeInfoDbDataSetTableAdapters.TableAdapterManager.SelfReferenceComparer">
+	<summary>
+Used to sort self-referenced table's rows
+</summary>
+</member><member name="T:CafeManagement.CafeInfoDbDataSetTableAdapters.TableAdapterManager">
+	<summary>
+TableAdapterManager is used to coordinate TableAdapters in the dataset to enable Hierarchical Update scenarios
+</summary>
+</member><member name="P:CafeManagement.My.Resources.Resources.ResourceManager">
+	<summary>
+  Returns the cached ResourceManager instance used by this class.
+</summary>
+</member><member name="P:CafeManagement.My.Resources.Resources.Culture">
+	<summary>
+  Overrides the current thread's CurrentUICulture property for all
+  resource lookups using this strongly typed resource class.
+</summary>
+</member><member name="P:CafeManagement.My.Resources.Resources._1455711_coffee_wallpaper_backgrounds_hd">
+	<summary>
+  Looks up a localized resource of type System.Drawing.Bitmap.
+</summary>
+</member><member name="T:CafeManagement.My.Resources.Resources">
+	<summary>
+  A strongly-typed resource class, for looking up localized strings, etc.
+</summary>
+</member>
+</members>
+</doc>
